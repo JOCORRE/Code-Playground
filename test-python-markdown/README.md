@@ -1,6 +1,6 @@
 # test-python-markdown
 
-Este repositório foi criado como parte do repositório principal [Playground Learning Code Area](https://github.com/seu-usuario/Playground-Learning-Code-Area) para os seguintes propósitos:
+Este repositório foi criado como parte do repositório principal [Playground Learning Code Area](https://github.com/JOCORRE/Code-Playground) para os seguintes propósitos:
 
 - **Testar a instalação do Python**: Verificar se a versão instalada do Python está configurada corretamente no ambiente.
 - **Explorar as funcionalidades do Markdown**: Avaliar como as diferentes opções de formatação do Markdown funcionam em um arquivo README.
@@ -70,7 +70,7 @@ Bloco de código em Perl:
 
 ### Links e Imagens
 
-- [Visite meu repositório principal](https://github.com/seu-usuario/Playground-Learning-Code-Area)
+- [Visite meu repositório principal](https://github.com/JOCORRE)
 - Imagens ilustrativas:
 
   ![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
