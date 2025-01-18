@@ -74,8 +74,10 @@ Bloco de código em Perl:
 - Imagens ilustrativas:
 
   ![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+  
 
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Logo GitHub" width="110" height="110">
+
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Logo Markdown" width="110" height="110">
 
